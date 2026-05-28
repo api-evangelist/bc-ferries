@@ -1,0 +1,32 @@
+aid: bc-ferries
+name: BC Ferries
+description: "Sailing times and capacities for BC Ferries"
+url: https://www.bcferriesapi.ca
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Transportation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Transportation
+  - Public APIs
+apis:
+  - name: BC Ferries
+    description: "Sailing times and capacities for BC Ferries"
+    humanURL: https://www.bcferriesapi.ca
+    baseURL: https://www.bcferriesapi.ca
+    tags:
+      - Transportation
+    properties:
+      - type: Documentation
+        url: https://www.bcferriesapi.ca
+common:
+  - type: Website
+    url: https://www.bcferriesapi.ca
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
