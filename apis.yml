@@ -39,7 +39,6 @@ apis:
   - name: BC Ferries
     description: "Sailing times and capacities for BC Ferries"
     humanURL: https://www.bcferriesapi.ca
-    baseURL: https://www.bcferriesapi.ca
     tags:
       - Transportation
     properties:
